@@ -1,8 +1,8 @@
 # Java-project
 A Java Mobile Application (that hasn't been tested to work on mobile) that allows you to track your monthly spending.
-Made as a course final project.
+Made as a course final project. 
 # Features
-- A simple UI fully written in Java. Use Android studio was prohibited, so I had to deal with it
+- A simple UI fully written in Java. Use of Android studio was prohibited, so I had to deal with it
 - Add/Edit/Delete your Incomes and Expenses!
 - Automatic generation of expense/income labels!
 - An image uploader to store your receipts or any image! Its dates and values too!
